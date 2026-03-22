@@ -1,0 +1,13 @@
+{
+  "name": "makatiaikidoclub-redesigned",
+  "version": "1.0.0",
+  "description": "Makati Aikido Club - Redesigned with Modern Template",
+  "scripts": {
+    "serve": "http-server -p 8002 -o",
+    "serve-silent": "http-server -p 8002",
+    "serve-python": "python3 -m http.server 8002"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

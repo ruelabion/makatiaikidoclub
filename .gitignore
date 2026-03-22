@@ -1,0 +1,24 @@
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
+
+# --- IDE/Editor Settings ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- Local Environment/Secrets ---
+.env
+.env.local
+secrets.txt
+
+# --- Dependencies (If any) ---
+node_modules/
+
+# --- Build/Output Folders (If applicable) ---
+dist/
+build/
+*.py
+*.md
+*.MD
